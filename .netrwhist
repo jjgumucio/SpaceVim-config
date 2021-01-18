@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/home/joaquingumuciol/projects/typescript/react-typescript-boiler'
+let g:netrw_dirhist_5='/home/joaquingumuciol/projects/flutter/flutter_food_delivery_ui/lib'
+let g:netrw_dirhist_4='/home/joaquingumuciol/projects/flutter/flutter_food_delivery_ui'
+let g:netrw_dirhist_3='/home/joaquingumuciol/projects/pixelcode-web'
+let g:netrw_dirhist_2='/home/joaquingumuciol/projects'
+let g:netrw_dirhist_1='/home/joaquingumuciol/projects/pixelcode-web'
